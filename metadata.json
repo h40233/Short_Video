@@ -1,0 +1,7 @@
+{
+  "name": "Gemini 創意影音工坊",
+  "description": "這是一個基於 Gemini API 的全方位創意應用程式，包含短影音生成、圖片生成、AI 聊天機器人與文字轉語音功能。支援風格設定與 YouTube 模擬上傳。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
